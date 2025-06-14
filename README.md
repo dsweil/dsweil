@@ -62,7 +62,6 @@ Infrastructure automation for AWS-GCP hybrid networking with Terraform and Pytho
 ## 🎯 What I'm Looking For
 
 **Senior infrastructure engineering roles** where I can apply both veteran IT experience and modern cloud expertise to build secure, scalable platforms — especially in:
-- **AI/ML Infrastructure**
 - **Platform Engineering**
 - **DevSecOps**
 
